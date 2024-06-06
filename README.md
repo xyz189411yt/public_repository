@@ -1,7 +1,7 @@
 # public_repository
 
-Master's degree in NLP, Suzhou University.
+Master's degree in NLP, Soochow University.
 
 Interested in NLP and search recommendation fields.
 
-Currently engaged in large model related work
+Currently engaged in LLM related work
